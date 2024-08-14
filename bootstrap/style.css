@@ -1,0 +1,12 @@
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light {
+    background-color: transparent; /* Optional: if you want a transparent background */
+}
+
+.col-md-6 h6{
+    color: gold;
+}
